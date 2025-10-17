@@ -28,7 +28,7 @@
 <br/>
 
 <p align="center" style="max-width:720px;margin:0 auto;">
-  <strong>About</strong> — I tinker with code and ech, game cheats, and malware research. Based between <em>CA</em> and <em>MX</em>. Pronouns: <strong>he/him</strong>.
+  <strong>About</strong> — I tinker with code and tech, game cheats, and malware research. Based between <em>CA</em> and <em>MX</em>. Pronouns: <strong>he/him</strong>.
 </p>
 
 <br/>
