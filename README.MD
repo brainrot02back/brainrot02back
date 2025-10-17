@@ -39,7 +39,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/brainrot02back?label=Follow&style=for-the-badge&color=8B0000" />
   </a>
   &nbsp;
-  <a href="mailto:your-brainrot02alt@outlook.com">
+  <a href="mailto:brainrot02alt@outlook.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-✉️-8B0000?style=for-the-badge&logo=gmail" />
   </a>
 </p>
