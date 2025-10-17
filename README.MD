@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brainrot02back&show_icons=true&hide_border=true&bg_color=000000&title_color=8B0000&text_color=FFFFFF&icon_color=8B0000" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=brainrot02back&hide_border=true&background=000000&currStreakLabel=8B0000&sideLabels=8B0000&sideNums=FFFFFF&dates=AAAAAA&stroke=FFFFFF&ring=8B0000&fire=8B0000&currStreakNum=FFFFFF" alt="GitHub Streak" width="48%"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brainrot02back&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=pie)
+
 </p>
 
 
